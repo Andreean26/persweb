@@ -1469,6 +1469,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     background: #EF233C;
+    border-top: radius 30px;
 }
 
 .footer .container-fluid {
