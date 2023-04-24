@@ -194,31 +194,29 @@
             <div class="timeline">
                 <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
                     <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
+                        <div class="timeline-date">2021 - 2022</div>
+                        <h2>Competitive Programming</h2>
+                        <h4>Binus University, Malang</h4>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
-                            semper pretium.
+                            Learning C language which is a subject that exists at this University. There is a program called SOCS which lasts for 1 full semester learning to code using the C language. Which each week will be entered into the ranking of who is the fastest to do the work.
                         </p>
                     </div>
                 </div>
                 <div class="timeline-item right wow slideInRight" data-wow-delay="0.1s">
                     <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
+                        <div class="timeline-date">2022 - 2023</div>
+                        <h2>App Designer</h2>
+                        <h4>Binus University, Malang</h4>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
-                            semper pretium.
+                            Learn how to make a mock up design on the figma application. At that time the thing I learned was to make a mobile application with the theme of fitness or fitness center.
                         </p>
                     </div>
                 </div>
                 <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
                     <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
+                        <div class="timeline-date">2022 - 2023</div>
+                        <h2>AR/VR Project</h2>
+                        <h4>Binus University, Malang</h4>
                         <p>
                             Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
                             semper pretium.
